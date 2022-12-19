@@ -1,0 +1,10 @@
+pandas
+jupyter
+tqdm
+gensim
+matplotlib
+seaborn
+biterm
+wordcloud
+sklearn
+pyLDAvis
